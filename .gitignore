@@ -1,0 +1,15 @@
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Ignorar el archivo Excel
+registros_evento.xlsx
